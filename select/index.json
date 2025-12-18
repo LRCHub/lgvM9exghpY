@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "DASH",
+  "base_artist": "NMIXX",
+  "createdAt": "2025-12-18T12:57:55.630247Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Digital Dash",
+      "artist": "Drake feat. Future",
+      "has_synced": true,
+      "path": "select/01_Digital_Dash_Drake_feat._Future.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Digital Dash",
+      "artist": "Drake & Future",
+      "has_synced": true,
+      "path": "select/02_Digital_Dash_Drake_&_Future.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dash After Dash",
+      "artist": "Matt and Kim",
+      "has_synced": true,
+      "path": "select/03_Dash_After_Dash_Matt_and_Kim.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dash After Dash",
+      "artist": "Matt & Kim",
+      "has_synced": true,
+      "path": "select/04_Dash_After_Dash_Matt_&_Kim.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dash The Curry Skit",
+      "artist": "M.I.A.",
+      "has_synced": true,
+      "path": "select/05_Dash_The_Curry_Skit_M.I.A..lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "F The World (feat. The Garden, Quay Dash & d0llywood1)",
+      "artist": "Dorian Electra feat. The Garden, Quay Dash & d0llywood1",
+      "has_synced": true,
+      "path": "select/06_F_The_World_(feat._The_Garden,_Quay_Dash_&_d0llywood1)_Dorian_Electra_feat._The_Garden,_Quay_Dash_&_d0llywood1.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "F The World (feat. The Garden, Quay Dash & d0llywood1)",
+      "artist": "Dorian Electra",
+      "has_synced": true,
+      "path": "select/07_F_The_World_(feat._The_Garden,_Quay_Dash_&_d0llywood1)_Dorian_Electra.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Slap Dash for No Cash",
+      "artist": "Art Brut",
+      "has_synced": false,
+      "path": "select/08_Slap_Dash_for_No_Cash_Art_Brut.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Faded (Dash Berlin Remix)",
+      "artist": "Alan Walker",
+      "has_synced": false,
+      "path": "select/09_Faded_(Dash_Berlin_Remix)_Alan_Walker.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Marvin & Chardonnay (feat. Kanye West & Roscoe Dash)",
+      "artist": "Big Sean",
+      "has_synced": true,
+      "path": "select/10_Marvin_&_Chardonnay_(feat._Kanye_West_&_Roscoe_Dash)_Big_Sean.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Grown Ups (feat. Dash)",
+      "artist": "Earl Sweatshirt",
+      "has_synced": true,
+      "path": "select/11_Grown_Ups_(feat._Dash)_Earl_Sweatshirt.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Slash Dot Dash",
+      "artist": "Fatboy Slim",
+      "has_synced": false,
+      "path": "select/12_Slash_Dot_Dash_Fatboy_Slim.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Digi Dash",
+      "artist": "Horse Head",
+      "has_synced": false,
+      "path": "select/13_Digi_Dash_Horse_Head.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DASH",
+      "artist": "NMIXX",
+      "has_synced": false,
+      "path": "select/pl_01_DASH_NMIXX.txt"
+    }
+  ]
+}
